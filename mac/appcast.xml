@@ -3,12 +3,12 @@
   <channel>
     <title>novv print (yeni) — Mac</title>
     <item>
-      <title>0.1.10</title>
-      <pubDate>Wed, 28 Oct 2026 15:37:04 +0000</pubDate>
-      <sparkle:version>110</sparkle:version>
-      <sparkle:shortVersionString>0.1.10</sparkle:shortVersionString>
+      <title>0.5.0</title>
+      <pubDate>Tue, 10 Nov 2026 09:26:30 +0000</pubDate>
+      <sparkle:version>500</sparkle:version>
+      <sparkle:shortVersionString>0.5.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/reputasyon/novv-print-native-releases/releases/download/mac-v0.1.10/novv-print-mac-0.1.10.zip" type="application/octet-stream" sparkle:edSignature="Le8ePSxn4T1w4RgPH3oskD3umUmAz+hdbw8cgVt7Q7EtLVSkAdv65h8MVvqXxeV65bHHxsbSxIMk5EfJL5fBCg==" length="43971087" />
+      <enclosure url="https://github.com/reputasyon/novv-print-native-releases/releases/download/mac-v0.5.0/novv-print-mac-0.5.0.zip" type="application/octet-stream" sparkle:edSignature="4S8/44/q/pQcXFVCNmX91hdXQ8mcDhzd/65oXgdQTShluaKJ6X3RiMBVYV6yoVtPIFjmrF0+1V0+TzmYL46AAQ==" length="44603362" />
     </item>
   </channel>
 </rss>
